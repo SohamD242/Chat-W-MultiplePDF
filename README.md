@@ -15,5 +15,7 @@ This repository hosts a Multi-PDF Chat Application that enables users to interac
 - **Langchain**: To facilitate the integration and interaction with the language model.
 - **Streamlit**: For creating an engaging and interactive web interface.
 
+## Screenshots
 
+![Example-1](https://github.com/SohamD242/Chat-W-MultiplePDF/blob/main/Screenshot%202024-07-15%20195935.png)
 
